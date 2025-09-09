@@ -39,8 +39,13 @@ Passionate about cybersecurity, bug bounty hunting, and threat research, aiming 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CEH-v13-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
+<img src="https://img.shields.io/badge/-CEH_v13-FF0000?&style=for-the-badge&logo=EC-Council&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
 ## Achievements
